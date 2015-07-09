@@ -1,3 +1,5 @@
 class Car
-	def initialize
+	def initialize engine
+		@engine =  engine
+	end
 end
